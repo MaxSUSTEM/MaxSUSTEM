@@ -1,0 +1,755 @@
+{
+    "translations": {
+        ".sc-llYSUQ.jIHuvv": {
+            "Friends": {
+                "text": "Кенты",
+                "src": "https://voxiom.io/package/561b26986b5489c71284.png"
+            },
+            "Clans": {
+                "text": "Кланы",
+                "src": "https://voxiom.io/package/f219eab7973b5ab639f6.png"
+            }
+        },
+        ".sc-ctKHVw.YECSn.active": {
+            "Game": "Гамать",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
+        ".sc-ctKHVw.YECSn": {
+            "Game": "Гамать",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
+        ".sc-dqhCBx.bVefSq": {
+            "Logout": "Выход"
+        },
+        ".sc-faIbUi.gIfJjz": {
+            "Friends": "Кенты"
+        },
+        ".sc-fezjOJ.ghuTRV": {
+            "Clans": "Кланы"
+        },
+        ".sc-kqnjJL.iKTcSL": {
+            "Loadouts": "Склад"
+        },
+        ".sc-jaskfy.grKevD": {
+            "Shop": "Магазин"
+        },
+        ".sc-ksHpcM.iVBhsj": {
+            "Update Patch Notes": "Список обновлений"
+        },
+        ".sc-hiCibw.igNAJT > div": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Пабг",
+            "Free For All": "Унижать игрокоа"
+        },
+        ".sc-jJoQJp.fRtCid": {
+            "Region": "Регион",
+            "Play": "Играть",
+            "Play Experimental Games": "Экспериментальные игры"
+        },
+        ".sc-jIkXHa.iKnwBi": {
+            "Survival": "Мусорка",
+            "Custom Game": "Пользовательская игра"
+        },
+        ".Dropdown-option": {
+            "US West (San Francisco)": "Пендосы(Сан-Франциско)",
+            "US East (New York City)": "Пендосы (Нью-Йорк)",
+            "Europe (Amsterdam)": "Россия(Москва)",
+            "Asia (Singapore)": "Алиэкспресс (Сингапур)",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Калаш",
+            "Tactical Assault Rifle": "Мка",
+            "Surge Assault Rifle": "Фамас",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Муха",
+            "Heavy Sniper Rifle": "АВП",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Говно",
+            "Precious": "Почти говно",
+            "Magnificent": "Норм",
+            "Extraordinary": "Хорошо",
+            "Covert": "Имба",
+            "Artifact": "Уах конфетка",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
+        },
+        ".Dropdown-option.is-selected": {
+            "US West (San Francisco)": "Пендосы (Сан-Франциско)",
+            "US East (New York City)": "Пендосы (Нью-Йорк)",
+            "Europe (Amsterdam)": "Россия(Москва)",
+            "Asia (Singapore)": "Алиэспресс",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Калаш",
+            "Tactical Assault Rifle": "мка",
+            "Surge Assault Rifle": "Фамас",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Муха",
+            "Compact Submachine Gun": "авп",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Говно",
+            "Precious": "Почти говно",
+            "Magnificent": "Норм",
+            "Extraordinary": "Нормас",
+            "Covert": "Имба",
+            "Artifact": "Уах коныетка",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
+        },
+        "div.Dropdown-placeholder.is-selected": {
+            "US West (San Francisco)": "Пендосы(Сан-Франциско)",
+            "US East (New York City)": "Пендосы (Нью-Йорк)",
+            "Europe (Amsterdam)": "Россия(Москва)",
+            "Asia (Singapore)": "Алиэкспресс",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Калаш",
+            "Tactical Assault Rifle": "Мка",
+            "Surge Assault Rifle": "Фамас",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Муха",
+            "Heavy Sniper Rifle": "Авик",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Говно",
+            "Precious": "Говно",
+            "Magnificent": "Норм",
+            "Extraordinary": "Нормас",
+            "Covert": "Имба",
+            "Artifact": "Уах конфетка",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
+        },
+        ".sc-mDocm.hHRoNj": {
+            "Market Search Options": "Фильтры торговой площадки"
+        },
+        ".sc-hAWBJg.bXzQpx": {
+            "Unequip": "Снять",
+            "Inspect": "Осмотреть",
+            "Equip": "Надеть",
+            "Sell": "Продать",
+            "List": "Фартуна",
+            "Purchase": "Купить"
+        },
+        ".sc-iRFsWr.gWOdib": {
+            "Noteworthy": "Говно",
+            "Precious": "Говно",
+            "Magnificent": "норм",
+            "Extraordinary": "Нормас,
+            "Covert": "Имба",
+            "Artifact": "уах конфетка"
+        },
+        ".sc-eZKLwX.kWTKXz": {
+            "Search / Filters": "Поиск / Фильтры"
+        },
+        ".sc-jFcvGJ.caACDf": {
+            "Sort By": "Сортировать по",
+            "Item Type": "Тип предмета",
+            "Item Rarity": "Редкость предмета"
+        },
+        ".sc-gIBqdA.jbjwZx.active": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-gIBqdA.jbjwZx": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-jOxtWs.exMOCY": {
+            "Capture The Gems": "Захват кристаллов"
+        },
+        ".sc-jOxtWs.glVnGM": {
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-eWfVMQ.fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        ".sc-lcepkR.iwRvvA": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        ".sc-iWVNaa.eyFRIg": {
+            "Match History": "История матчей"
+        },
+        ".sc-JkixQ.hIGWbS": {
+            "Victory": "Победа"
+        },
+        ".sc-cHzqoD.ixwXIr": {
+            "Defeat": "Поражение"
+        },
+        ".sc-ewSTlh.cLiuLr": {
+            "Map:": "Карта: ",
+            "Time:": "Время: ",
+            "Duration:": "Время игры: ",
+            "Kills:": "Убийства: ",
+            "Deaths:": "Смерти: ",
+            "Captures:": "Захваты: ",
+            "Survival Time:": "Время выживания: ",
+            "Score:": "Счёт: "
+        },
+        ".sc-hJZKUC.guVumh": {
+            "View Details": "Смотреть детали"
+        },
+        ".sc-knKHOI.hEKUAW.active": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
+        },
+        ".sc-knKHOI.hEKUAW": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
+        },
+        ".sc-cQMzAB.hRFyHw": {
+            "General": "Основные",
+            "Video": "Графика",
+            "Keybinds": "Управление",
+            "Crosshair": "Прицел",
+            "Modding": "Текстуры"
+        },
+        ".sc-cAhXWc.ebhwVb": {
+            "Capture The Gems": "Захват кристаллов"
+        },
+        ".sc-hWBuOZ.fxxwTY": {
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-kNzDjo.csWefZ": {
+            "Rank": "Место",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт"
+        },
+        "span.sc-cxVPaa.chFTMr": {
+            "Map: ": "Карта: ",
+            "Time: ": "Время: ",
+            "Duration: ": "Длительность: "
+        },
+        ".sc-gsFzgR.bQvkau": {
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Captures": "Захваты",
+            "Score": "Счёт"
+        },
+        ".sc-bePbDJ.ebOUIU": {
+            "Active Since": "Создан",
+            "Members": "Участников",
+            "Minimum Level Requirement": "Минимальный уровень",
+            "Recruitment Status": "Тип набора"
+        },
+        ".sc-eDtABA.fqhEfw": {
+            "Accepting Applications": "Принятие по заявке",
+            "Invite Only": "Только по приглашению",
+            "Open": "Открытый"
+        },
+        ".sc-jEieoE.jkBEwJ": {
+            "View Details": "Смотреть детали"
+        },
+        ".sc-eMHfQD.kagwjA": {
+            "There aren't any outgoing invites.": "Нету активных приглашений."
+        },
+        ".sc-cOLXoO.bONHqI": {
+            "Edit": "Редактировать",
+            "Disband": "Распустить",
+            "Leave": "Выйти"
+        },
+        ".sc-jlRLRk.sc-dUbtfd.dkaHOP.cGXUJi": {
+            "Search": "Поиск",
+            "Invite to Clan": "Пригласить в клан",
+            "Sell": "Продать",
+            "List": "Выставить на аукцион",
+            "Purchase": "Купить",
+            "Add Friend": "Добавить в друзья"
+        },
+        ".sc-jlRLRk.sc-iMiVwU.dkaHOP.bqHmXd": {
+            "Later": "Позже",
+            "Cancel": "Отмена"
+        },
+        ".sc-LerVu.elubaH > span": {
+            "List on the market": "Информация о предмете на аукционе",
+            "Purchase this item?": "Купить этот предмет?"
+        },
+        ".sc-ljHdwo.jrzZMc > span": {
+            "Price: ": "Цена: "
+        },
+        ".sc-czvZiG.fWUAzE > div": {
+            "Loading...": "Загрузка...",
+            "There aren't any incoming join requests.": "В данный момент нет заявок на вступление в клан.",
+            "No one has been banned from this clan.": "Нету заблокированных игроков.",
+            "Please log in or register to access this feature!": "Пожалуйста войдите или зарегистрируйтесь чтобы разблокировать эту функцию"
+        },
+        ".sc-hDzdEj.bxrxDC": {
+            "Commander": "Командир",
+            "Officer": "Офицер",
+            "Soldier": "Солдат",
+            "Member": "Участник"
+        },
+        ".sc-lhMiDA.gFHuqi": {
+            "Sensitivity": "Чувствительность",
+            "ADS Sensitivity Multiplier": "Множитель чувствительности наведения",
+            "Scoped Sensitivity Multiplier": "Множитель чувствительности прицела",
+            "General Field of View (FOV)": "Основной угол обзора",
+            "First Person Model FOV": "Поле зрения от первого лица",
+            "ADS FOV Multiplier": "Множитель угла обзора при наведении",
+            "Running FOV Multiplier": "Угол обзора во время бега",
+            "Sound Volume": "Громкость",
+            "Invert Y Axis": "Инвертировать ось Y",
+            "Invert Mouse Wheel": "Инвертировать колесо мыши",
+            "Hide Chat": "Спрятать чат",
+            "Disable Rewarded Ads Popup": "Отключить награждение за рекламу"
+        },
+        ".sc-eVmaCL.bwgVBX": {
+            "Render Scale": "Дальность прорисовки",
+            "Show bullet tracers": "Показывать направление полета пуль",
+            "Show ammo shells when firing weapon": "Показывать боеприпас при стрельбе"
+        },
+        ".sc-dYPfWK.pFjsv": {
+            "Turn off the settings below might help reduce lag": "Отключите ниже функции чтобы уменьшить зависания."
+        },
+        ".sc-fivaXQ.OAMge": {
+            "Move Left": "Влево",
+            "Move Right": "Вправо",
+            "Move Forward": "Вперед",
+            "Move Backward": "Назад",
+            "Jump": "Прыжок",
+            "Sprint": "Бег",
+            "Crouch": "Краться",
+            "Drop Current Item": "Выкинуть предмет",
+            "Reload": "Перезарядка",
+            "Toggle Inventory": "Открыть инвентарь",
+            "Inventory Helper Key": "Помощь в инвентаре",
+            "Game Overview": "Список игроков",
+            "Toggle Map": "Карта",
+            "Toggle Player Menu": "Репорты",
+            "Select Slot 1": "Слот 1",
+            "Select Slot 2": "Слот 2",
+            "Select Slot 3": "Слот 3",
+            "Select Slot 4": "Слот 4",
+            "Select Slot 5": "Слот 5",
+            "Interact / Pick up": "Подобрать / Использовать",
+            "Spray": "Нарисовать",
+            "Primary Action": "Основное действие",
+            "Secondary Action": "Дополнительное действие"
+        },
+        ".sc-bxDdli.dIbEXE": {
+            "Width": "Ширина",
+            "Length": "Длина",
+            "Color": "Цвет",
+            "Hit Marker Color": "Цвет маркера попадания",
+            "Style": "Стиль",
+            "Show Crosshair When ADS": "Показывать прицел при наведении",
+            "Hide Model When ADS": "Прятать модель оружия при наведении"
+        },
+        ".sc-iuqRDJ.fEywaC": {
+            "Terrain Texture URL": "Ссылка на текстуры",
+            "Sniper Scope Image URL": "Ссылка на прицел снайперской винтовки",
+            "Sniper Scope Image Opacity": "Прозрачность прицела снайперской винтовки",
+            "Sniper Scope Image Scale X": "Масштаб прицела по оси X",
+            "Sniper Scope Image Scale Y": "Масштаб прицела по оси Y",
+            "Sniper Scope Background Color": "Цвет фона прицела",
+            "Sniper Scope Background Opacity": "Прозрачность фона прицела"
+        },
+        ".sc-jlRLRk.sc-iukxot.dkaHOP.fheinf": {
+            "Restore Defaults": "Сбросить настройки",
+            "Resume": "Продолжить",
+            "Settings": "Настройки",
+            "Leave": "Выйти"
+        },
+        ".sc-hWwfGH.hmiDqW": {
+            "Menu": "Меню"
+        },
+        ".sc-jCHUfY.flhAvc": {
+            "Settings": "Настройки"
+        },
+        ".sc-lkgTHX.kQPydY": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-lkgTHX.kQPydY.nav-stats-item-active": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-eGPXGI.cCThLf": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-eGPXGI.cCThLf.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-jWUzzU.egphfS": {
+            "Level": "Уровень",
+            "Score": "Очки"
+        },
+        ".sc-jWUzzU.egphfS.nav-stats-item-active": {
+            "Level": "Уровень",
+            "Score": "Очки"
+        },
+        ".sc-gIDmLj.iwQGxq": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survival Time": "Время выживания"
+        },
+        ".sc-gIDmLj.iwQGxq.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survival Time": "Время выживания"
+        },
+        ".sc-XxNYO.eBMOqr": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Captures": "Захваты",
+            "Score": "Счёт",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Level": "Уровень"
+        },
+        ".sc-jHkVzv.cPeUZE": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Level": "Уровень",
+            "Score": "Счёт"
+        },
+        ".sc-eGRUor.jWQedv": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Level": "Уровень"
+        },
+        ".sc-uojGG.iwluPY": {
+            "Range:": "Время:",
+            "Sort By:": "Сортировать по:"
+        },
+        ".sc-dFtzxp.iUUfMk": {
+            "Range:": "Время:",
+            "Sort By:": "Сортировать по:"
+        },
+        ".sc-FNXRL.dzwgvu": {
+            "Sort By:": "Сортировать по:"
+        },
+        ".sc-gcVIGZ.cRaxyW": {
+            "Press E to pick up": "Нажмите E чтобы поднять",
+            "Press E to use": "Нажмите E чтобы использовать",
+            "Press E to open": "Нажмите E чтобы открыть",
+            "Press E to swap": "Нажмите E чтобы поменять"
+        },
+        ".sc-dTWLky.hrCvPx": {
+            "Log": "Бревно",
+            "Dirt": "Земля",
+            "Cactus": "Кактус",
+            "Sand": "Песок",
+            "Rock": "Булыжник",
+            "Wood": "Доски",
+            "Wooden Chest": "Деревянный сундук",
+            "Iron Chest": "Железный сундук",
+            "Golden Chest": "Золотой сундук",
+            "Shovel": "Лопата",
+            "Red Berry": "Красная ягода",
+            "Orange Berry": "Оранжевая ягода",
+            "Emerald Gem": "Изумруд",
+            "Work Station": "Верстак",
+            "Iron": "Железо",
+            "Sulfur": "Сера",
+            "Stone Brick": "Каменные кирпичи",
+            "Reinforced Iron": "Железный блок",
+            "Bedrock Brick": "Бедроковые кирпичи",
+            "Bedrock": "Бедрок",
+            "Pistol Ammo": "Патроны для пистолета",
+            "Assault Rifle Ammo": "Патроны для автоматов",
+            "Sniper Rifle Ammo": "Патроны для снайпы их мало",
+            "Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "Combat Assault Rifle": "калаш",
+            "Tactical Assault Rifle": "мка",
+            "Surge Assault Rifle": "фамас",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Муха",
+            "Heavy Sniper Rifle": "Авп",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle"
+        },
+        ".sc-bxYNtK.eCtHSV": {
+            "Right click to switch mode. Current mode: Block": "Правый клик мыши для смены режима. Текущий режим: Блок",
+            "Right click to switch mode. Current mode: Wall": "Правый клик мыши для смены режима. Текущий режим: Стена",
+            "Right click to switch mode. Current mode: Stairs": "Правый клик мыши для смены режима. Текущий режим: Лестница",
+            "Right click to switch mode. Current mode: Floor": "Правый клик мыши для смены режима. Текущий режим: Пол"
+        },
+        ".sc-gNDVjn.geVVbd": {
+            "Leaderboard": "Таблица лидеров"
+        },
+        ".sc-jcneYm.foSuPz": {
+            "12 Pistol Ammo": "Патроны для пистолета",
+            "10 Assault Rifle Ammo": "Патроны для автоматов",
+            "Pistol Ammo": "Патроны для пистолета",
+            "Assault Rifle Ammo": "Патроны для автоматов",
+            "3 Sniper Rifle Ammo": "Патроны для снаипы их мало",
+            "15 Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "1 Combat Assault Rifle": "Калаш",
+            "1 Tactical Assault Rifle": "Автомат M24",
+            "1 Surge Assault Rifle": "Автомат FAMAS G2",
+            "1 Burst Shotgun": "Дробовик",
+            "1 Light Submachine Gun": "Легкий пистолет-пулемет",
+            "1 Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "1 Light Sniper Rifle": "Муха",
+            "1 Heavy Sniper Rifle": "Авик",
+            "1 Strike Pistol": "Штурмовой пистолет",
+            "1 Magnum Pistol": "Пистолет Desert Eagle",
+            "1 Shovel": "Лопата",
+            "2 Medicine Pills": "Пилюля",
+            "1 First Aid Kit": "Аптечка",
+            "2 Mini Shield Potion": "Плохои коньяк",
+            "1 Advanced Shield Potion": "Коньяк",
+            "1 Ultimate Shield Potion": "Хенеси",
+            "Sniper Rifle Ammo": "Потроны для снаипы их мало",
+            "Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "Combat Assault Rifle": "Калаш",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Муха",
+            "Heavy Sniper Rifle": "Авик",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "1 Wooden Chest": "Деревянный сундук",
+            "1 Iron Chest": "Железный сундук",
+            "9 Wood": "Доски",
+            "1 Work Station": "Верстак",
+            "9 Stone Brick": "Каменные кирпичи",
+            "9 Reinforced Iron": "Железный блок",
+            "1 Bomb": "1 динамит",
+            "Log": "Бревно",
+            "Dirt": "Земля",
+            "Cactus": "Пидр",
+            "Sand": "Песок",
+            "Rock": "Булыжник",
+            "Wood": "Доски",
+            "Wooden Chest": "Деревянный сундук",
+            "Iron Chest": "Железный сундук",
+            "Golden Chest": "Золотой сундук",
+            "Red Berry": "Красная ягода",
+            "Orange Berry": "Оранжевая ягода",
+            "Emerald Gem": "Изумруд",
+            "Work Station": "Верстак",
+            "Iron": "Железо",
+            "Sulfur": "Сера",
+            "Stone Brick": "Каменные кирпичи",
+            "Reinforced Iron": "Железный блок",
+            "Bedrock Brick": "Бедроковые кирпичи",
+            "Bedrock": "Бедрок"
+        },
+        ".sc-gloWDX.fWdA-DC": {
+            "Common": "говно",
+            "Uncommon": "говно",
+            "Rare": "говно",
+            "Epic": "норм",
+            "Legendary": "то чно надо",
+            "Mythic": "Имба"
+        },
+        ".sc-jgaZKu.gJjoef": {
+            "Needs": "Нужно:"
+        },
+        ".sc-hXLIYv.dUqVQU": {
+            "1 Shovel (Uncommon)": "1 Лопата (Хорошая)",
+            "1 Shovel (Rare)": "1 Лопата (Отличная)",
+            "1 Shovel (Epic)": "1 Лопата (Эпическая)",
+            "1 Shovel (Legendary)": "1 Лопата (Которая нужна)",
+            "1 Iron (Common)": "1 железо (обычное)",
+            "2 Iron (Common)": "2 железа (обычное)",
+            "3 Iron (Common)": "3 железа (обычное)",
+            "4 Iron (Common)": "4 железа (обычное)",
+            "5 Iron (Common)": "5 железа (обычное)",
+            "20 Iron (Common)": "20 железа (обычное)",
+            "1 Emerald Gem (Common)": "1 изумруд (обычный)",
+            "2 Emerald Gem (Common)": "2 изумруда (обычный)",
+            "3 Emerald Gem (Common)": "3 изумруда (обычный)",
+            "4 Emerald Gem (Common)": "4 изумруда (обычный)",
+            "5 Emerald Gem (Common)": "5 изумрудов (обычный)",
+            "10 Emerald Gem (Common)": "10 изумрудов (обычный)",
+            "1 Sulfur (Common)": "1 сера (обычная)",
+            "5 Sulfur (Common)": "1 сера (обычная)",
+            "50 Wood (Common)": "50 досок (обычный)",
+            "30 Wood (Common)": "30 досок (обычный)",
+            "4 Wood (Common)": "50 досок (обычный)",
+            "1 Log (Common)": "1 бревно (обычное)",
+            "1 Rock (Common)": "1 камень (обычный)",
+            "6 Orange Berry (Common)": "6 оранжевых ягод (обычное)",
+            "3 Orange Berry (Common)": "3 оранжевые ягоды (обычное)",
+            "4 Orange Berry (Common)": "4 оранжевые ягоды (обычное)",
+            "6 Red Berry (Common)": "6 красных ягод (обычное)",
+            "3 Red Berry (Common)": "3 красные ягод (обычное)"
+
+        },
+        ".sc-URNzB.bNHwUE": {
+            "Not enough material!": "Вы бомж",
+            "Click to craft!": "Нажми епте"
+        },
+        ".sc-hrJiTw.isILGJ": {
+            "Ammo": "Боеприпас",
+            "Backpack": "Рюкзак",
+            "Crafting - Portable": "Крафт - Портативный",
+            "Crafting - Work Station": "Крафт - Верстак",
+            "Wooden Chest":"Деревянный сундук",
+            "Iron Chest":"Железный сундук",
+            "Golden Chest":"Золотой сундук"
+        },
+        ".sc-ojmzf.bnCjpz": {
+            "Hotbar": "Хотбар"
+        },
+        ".sc-iXEfxz.cYwXTg": {
+            "Player": "Чел"
+        },
+        ".sc-bgMUWu.hMDrbk": {
+            "Kills": "Килов",
+            "Deaths": "Сдох",
+            "Assists": "Спиздили",
+            "Score": "Счёт"
+        },
+        ".sc-kOyqGX.hekDHw > #text": {
+            "Hotbar":"Хотбар"
+        },
+        ".sc-LQqIQ.kTPXFo": {
+            "Click anywhere to respawn!": "Нажмите чтобы возродится",
+            "Respawning in 9...": "Бля 9...",
+            "Respawning in 8...": "Оп 8...",
+            "Respawning in 7...": "Хоп 7...",
+            "Respawning in 6...": "хуяк 6...",
+            "Respawning in 5...": "ау 5...",
+            "Respawning in 4...": "сас 4...",
+            "Respawning in 3...": "поп 3...",
+            "Respawning in 2...": "хоп 2...",
+            "Respawning in 1...": "опа 1..."
+            
+        },
+        ".sc-hgksCU.kaFecd > span": {
+            "Connection Failed! Please try again!": "Гитлер копут"
+        },
+        ".sc-gwNMUz.jAEnuV": {
+            "Find a new game": "Найти новую игру"
+        },
+        ".sc-iJCbQK.jiSzWK > span": {
+            "Sorry, you must be logged in to access this feature!": "Извините, но вы должны выполнить вход чтобы пользоваться инвентарем"
+        },
+        ".sc-kTqLtj.eBvsGw > div": {
+            "Sorry, you must be logged in to access this feature!": "Извините, но вы должны выполнить вход чтобы пользоваться инвентарем"
+        },
+        ".sc-dwsnSq.fPHxxk": {
+            "Sign in to track stats and level up!": "Войдите чтобы открыть все возможности!"
+        },
+        ".sc-cvZCdy.Spnsu": {
+            "Sign in with Discord": "Войти с помощью Discord",
+            "Sign in with Google": "Войти с помощью Google",
+            "Sign in with Facebook": "Войти с помощью Facebook"
+        },
+        ".sc-fIosxK.dELkbP": {
+            "Soldier": "Солдат"
+        },
+        ".sc-jcFjpl.hONyLe": {
+            "Unlock at Level 5": "Откроется на уровне 5",
+            "Unlock at Level 60": "Откроется на уровне 60"
+        }
+    }
+}
